@@ -1,0 +1,24 @@
+{
+  "name": "user-mangement-template",
+  "version": "0.0.1",
+  "description": "A user mangement sub sytem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashmaparraylist/user-mangement-template.git"
+  },
+  "author": "Sebastian Qu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashmaparraylist/user-mangement-template/issues"
+  },
+  "homepage": "https://github.com/hashmaparraylist/user-mangement-template#readme",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-bodyparser": "^2.2.0",
+    "koa-router": "^5.4.0"
+  }
+}
